@@ -1,0 +1,6 @@
+LIBRARY RemapperCore
+
+EXPORTS
+
+DIHook_LocalData
+
